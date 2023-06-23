@@ -1,7 +1,7 @@
 # DrinkStore
  Project Android
 
-Halaman pertama menampilkan empty jika state kosong
+Halaman pertama menampilkan empty state jika data kosong
 
 <img src="https://github.com/faizum/DrinkStoreApp/blob/main/screenshoot/halaman%20pertama.PNG">
 
